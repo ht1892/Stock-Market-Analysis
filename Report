@@ -1,0 +1,8 @@
+This project involves the use of Sentiment Analysis, Predictive Analysis, Visualization and Comparison Module.
+Dataset Link: https://www.kaggle.com/datasets/nelgiriyewithana/world-stock-prices-daily-updating?resource=download
+Results are mentioned below.
+
+The predictive model shows that the estimate for the next three days is 229.4,229.8 and 230.2 according to the dataset. Forecasting was used to obtain this result on tableau.
+Sentiment Analysis was done for Adidas using comparison between 50-day Moving Average and 200-day Moving Average. The 50-day MA generally crosses above the 200-day MA hence the stock sentiment shows potential upwars trend in the market.
+Since, the dataset used is vast, comparison of multiple companies have been shown for various industries.
+
